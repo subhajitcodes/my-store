@@ -16,15 +16,15 @@ Currently running locally. GitHub is being used for source-code version control.
 
 ### 🏠 Home / Product Listing
 
-<img src="./assets/mystore.png" alt="My Store Home Page" width="800">
+<img src="./src/assets/mystore.png" alt="My Store Home Page" width="800">
 
 ### 🛍️ Products
 
-<img src="./assets/cart.png" alt="My Store Cart" width="800">
+<img src="./src/assets/cart.png" alt="My Store Cart" width="800">
 
 ### 🛒 Shopping Cart
 
-<img src="./assets/emptyCart.png" alt="My Store empty Shopping Cart" width="800">
+<img src="./src/assets/emptyCart.png" alt="My Store empty Shopping Cart" width="800">
 
 ---
 
